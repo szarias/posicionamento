@@ -1,0 +1,13 @@
+.container{
+    flex-wrap: wrap;
+}
+
+.janela1{
+    width: 100px;
+    height: 100px;
+}
+
+.janela2{
+    width: 100px;
+    height: 100px;
+}
